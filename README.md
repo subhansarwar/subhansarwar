@@ -68,10 +68,17 @@
 ### 🌍 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/subhansarwar" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:subhansarwar956@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://eyaiventures.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/-eyaiventures-000000?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/subhansarwar" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:subhansarwar956@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://eyaiventures.com" target="_blank">
+    <img alt="Website" src="https://img.shields.io/badge/-Visit%20My%20Website-1E1E1E?style=flat&logoColor=white"/>
+  </a>
 </p>
+
 
 ---
 
