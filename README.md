@@ -69,15 +69,22 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/subhansarwar" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  
   <a href="mailto:subhansarwar956@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+    <img alt="Email" src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
   <a href="https://eyaiventures.com" target="_blank">
-    <img alt="Website" src="https://img.shields.io/badge/-Visit%20My%20Website-1E1E1E?style=flat&logoColor=white"/>
+    <img alt="Website" src="https://img.shields.io/badge/-Visit%20My%20Website-00C853?style=for-the-badge&logoColor=white"/>
+  </a>
+
+  <a href="https://www.fiverr.com/sellers/subhansarwar6/edit" target="_blank">
+    <img alt="Fiverr" src="https://img.shields.io/badge/-Hire%20Me%20on%20Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
   </a>
 </p>
+
 
 
 ---
@@ -92,6 +99,7 @@
 ---
 
 > 🧠 *“Your code is only as powerful as the problem it solves. Let’s build smarter.”*
+> 
 > 💬 **"Loyalty is a two-way street.  
 If I'm asking for it from you, then you are getting it from me!"**  
 > — Subhan Sarwar
