@@ -2,8 +2,9 @@
 <h3 align="center">🚀 Founder & AI Engineer at Eyai Ventures | Building the Future with Code & Intelligence</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Founder+of+Eyai+Ventures;AI+Automation+Specialist;FastAPI+%7C+Django+%7C+React+%7C+Next.js+Expert;AI+Agents+%7C+LLMs+%7C+RAG+%7C+LangChain;Turning+Vision+into+Product+Success+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Founder+of+Eyai+Ventures;AI+Automation+Specialist;FastAPI+%7C+Django+%7C+React+%7C+Next.js+Expert;AI+Agents+%7C+LLMs+%7C+RAG+%7C+LangChain;Turning+Vision+into+Product+Success+🚀" alt="Typing SVG" />
 </p>
+
 
 ---
 
