@@ -77,7 +77,7 @@
   </a>
 
   <a href="https://eyaiventures.com" target="_blank">
-    <img alt="Website" src="https://img.shields.io/badge/-Visit%20My%20Website-00C853?style=for-the-badge&logoColor=white"/>
+    <img alt="Website" src="https://img.shields.io/badge/-EYAI%20VENTURES%20WEBSITE-00C853?style=for-the-badge&logoColor=white"/>
   </a>
 
   <a href="https://www.fiverr.com/sellers/subhansarwar6/edit" target="_blank">
@@ -98,8 +98,5 @@
 
 ---
 
-> 🧠 *“Your code is only as powerful as the problem it solves. Let’s build smarter.”*
-> 
-> 💬 **"Loyalty is a two-way street.  
-If I'm asking for it from you, then you are getting it from me!"**  
+> 💬 **"Loyalty is a two-way street.  If I'm asking for it from you, then you are getting it from me!"**  
 > — Subhan Sarwar
