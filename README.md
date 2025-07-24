@@ -1,16 +1,90 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Subhan Sarwar</h1>
+<h3 align="center">🚀 Founder & AI Engineer at Eyai Ventures | Building the Future with Code & Intelligence</h3>
 
-<!--
-**subhansarwar/subhansarwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Founder+of+Eyai+Ventures;AI+Automation+Specialist;FastAPI+%7C+Django+%7C+React+%7C+Next.js+Expert;AI+Agents+%7C+LLMs+%7C+RAG+%7C+LangChain;Turning+Vision+into+Product+Success+🚀" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+
+- 🏢 I'm the **Founder of Eyai Ventures** – powering next-gen AI & software products
+- 🤖 I specialize in **AI Development, Agents, Automation, and Full-Stack Engineering**
+- 🌐 Building **Scalable AI systems, SaaS platforms, and intelligent backend solutions**
+- 📍 Based in the **ABU DHABI, UAE**, operating globally with high-impact projects
+
+---
+
+### 🚀 Tech Stack & Tools
+
+#### 💻 Backend
+![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
+![Flask](https://img.shields.io/badge/-Flask-000?style=flat&logo=flask)
+
+#### 🧠 AI & Data
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
+![LangChain](https://img.shields.io/badge/-LangChain-000?style=flat&logo=OpenAI)
+![LLMs](https://img.shields.io/badge/-LLMs-000?style=flat&logo=OpenAI)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn)
+
+#### 🌐 Frontend
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
+
+#### ☁️ DevOps & Tools
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
+
+#### 🗄️ Databases & Storage
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![VectorDB](https://img.shields.io/badge/-Vector%20DB%20(RAG)-4A154B?style=flat&logo=openai&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=subhansarwar&show_icons=true&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subhansarwar&theme=radical&hide_border=true" width="48%"/>
+</p>
+
+---
+
+### 🏆 Featured Projects (Coming Soon)
+
+- 🤖 **AI Validator Bot** – Real-time trading signal validation using LLMs
+- 📊 **Smart Social Media SaaS Dashboards** – Advanced analytics for Social Media, Automatic Posting & Content Generation.
+- 🧠 **Virtual AI Teacher** – Transforming education with speech + multimodal AI agents
+
+---
+
+### 🌍 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/subhansarwar" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:subhansarwar956@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://eyaiventures.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/-eyai.ventures-000000?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+</p>
+
+---
+
+### 💼 Currently Building
+
+- 🚀 Full-stack **AI SaaS platforms**
+- 📦 Autonomous **AI Agents** using FastAPI + LangChain
+- 🌐 Real-time web apps with **Next.js + FastAPI backend**
+- 🤝 Open to B2B Projects, AI Collaborations & Partnerships
+
+---
+
+> 🧠 *“Your code is only as powerful as the problem it solves. Let’s build smarter.”*
+> 💬 **"Loyalty is a two-way street.  
+If I'm asking for it from you, then you are getting it from me!"**  
+> — Subhan Sarwar
