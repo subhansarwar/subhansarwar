@@ -77,6 +77,10 @@
     <img alt="Website" src="https://img.shields.io/badge/-EYAI%20VENTURES%20WEBSITE-00C853?style=for-the-badge&logoColor=white"/>
   </a>
 
+  <a href="https://pyrexsolutions.com" target="_blank">
+    <img alt="Website" src="https://img.shields.io/badge/-PYREX%20SOLUTIONS%20WEBSITE-00C853?style=for-the-badge&logoColor=white"/>
+  </a>
+
   <a href="https://www.fiverr.com/sellers/subhansarwar6/edit" target="_blank">
     <img alt="Fiverr" src="https://img.shields.io/badge/-Hire%20Me%20on%20Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
   </a>
