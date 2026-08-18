@@ -2,7 +2,7 @@
 <h3 align="center">Founder & AI Engineer at Eyai Ventures | Building the Future with Code & Intelligence</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFA500&center=true&vCenter=true&width=1000&lines=Founder+of+Eyai+Ventures;AI+Automation+Specialist" alt="Typing SVG 1" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFA500&center=true&vCenter=true&width=1000&lines=Co-Founder+of+Pyrex+Solutions;AI+Automation+Specialist" alt="Typing SVG 1" />
 </p>
 
 <p align="center">
