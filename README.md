@@ -15,7 +15,7 @@
 
 ### 🧠 About Me
 
-- 🏢 I'm the **Founder of Eyai Ventures** – powering next-gen AI & software products
+- 🏢 I'm the **Co-Founder of Pyrex Solutions** – powering next-gen AI & software products
 - 🤖 I specialize in **AI Development, Agents, Automation, and Full-Stack Engineering**
 - 🌐 Building **Scalable AI systems, SaaS platforms, and intelligent backend solutions**
 - 📍 Based in the **ABU DHABI, UAE**, operating globally with high-impact projects
