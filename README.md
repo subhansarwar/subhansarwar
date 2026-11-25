@@ -98,6 +98,4 @@
 - 🤝 Open to B2B Projects, AI Collaborations & Partnerships
 
 ---
-
-> 💬 **"Loyalty is a two-way street.  If I'm asking for it from you, then you are getting it from me!"**  
 > — Subhan Sarwar
